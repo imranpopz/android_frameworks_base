@@ -7441,5 +7441,8 @@ message MetricsEvent {
 
     // AOSPA Metrics
     AOSPA = 2772;
+
+    // Add paranoid metric constant for App Lock
+    PA = 1751;
   }
 }
